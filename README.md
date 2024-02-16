@@ -1,1 +1,1 @@
-# .github
+# EaglercraftY is fake
